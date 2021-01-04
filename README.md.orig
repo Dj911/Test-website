@@ -4,7 +4,10 @@ Creating a test website for learning Git.
 # updating the readme file
 Test update
 
-# updating through remote repo
-Updates from remote repo
+<<<<<<< HEAD
 # updating from local repo
 Updated from the local repo
+=======
+# updating through remote repo
+Updates from remote repo
+>>>>>>> 808eb99efaf2210354ed7825e387de8ab9a3534c
