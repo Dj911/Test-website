@@ -8,3 +8,6 @@ Test update
 Updates from remote repo
 # updating from local repo
 Updated from the local repo
+
+# update for rebase
+Updated the file for rebase
